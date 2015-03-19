@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container">
+		<View>
+			<TableView id="participantesVista">
+			</TableView>
+			
+			<View id="listview"></View>
+		</View>
+	</Window>
+</Alloy>
